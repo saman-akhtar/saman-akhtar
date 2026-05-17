@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** — distributed systems, multi-tenant SaaS, cloud infrastructure
 
-San Jose, CA · [Portfolio](https://saman-akhtar.github.io) · [LinkedIn](https://linkedin.com/in/saman-akhtar-190340112) · samana@usc.edu
+San Jose, CA · [Portfolio](https://saman-akhtar.github.io)  
 
 ---
 
@@ -31,16 +31,16 @@ Observability Grafana · Prometheus · SonarQube · Burp Suite
 
 | | |
 |---|---|
-| **Scry AI** | Senior Software Engineer · Feb 2023 – Present |
-| **Fidelity Investments** | Software Engineer · Jul 2017 – Jan 2021 |
-| **Motorola Mobility** | Mobile Dev Intern · Jan 2017 – Jun 2017 |
+| **Scry AI** | Senior Software Engineer |
+| **Fidelity Investments** | Software Engineer |
+| **Motorola Mobility** | Mobile Dev Intern |
 
 ---
 
 ### Education
 
-🎓 **M.S. Computer Science** — University of Southern California (USC Viterbi), 2022 · GPA 3.52  
-🎓 **B.E. Computer Science** — National Institute of Engineering, 2017 · Rank 3/200 · GPA 9.3/10
+🎓 **M.S. Computer Science** — University of Southern California (USC Viterbi), 2022 
+🎓 **B.E. Computer Science** — National Institute of Engineering, 2017 · Rank 3/200 
 
 ---
 
@@ -55,4 +55,4 @@ Observability Grafana · Prometheus · SonarQube · Burp Suite
 
 ---
 
-*Open to senior backend, platform, and fullstack engineering roles (remote). H-1B — open to sponsorship.*
+
