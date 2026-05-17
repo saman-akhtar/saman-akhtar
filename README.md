@@ -51,6 +51,8 @@ Observability Grafana · Prometheus · SonarQube · Burp Suite
 | [saman-akhtar.github.io](https://github.com/saman-akhtar/saman-akhtar.github.io) | Portfolio site — dark theme, full experience & projects |
 | [ML-for-Data-Science](https://github.com/saman-akhtar/ML-for-Data-Science) | ML algorithms from scratch: KNN, logistic regression, acoustic classification, image processing |
 | [full-throttle](https://github.com/saman-akhtar/full-throttle) | React dashboard — real-time team activity visualizer |
+| [Logo-add-detection](https://github.com/saman-akhtar/LogoADDdetection) | Logo Add Detection — Logo Detection & Targeted Ad Replacement |
+
 
 ---
 
