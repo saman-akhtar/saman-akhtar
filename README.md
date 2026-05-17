@@ -51,7 +51,6 @@ Observability Grafana · Prometheus · SonarQube · Burp Suite
 | [saman-akhtar.github.io](https://github.com/saman-akhtar/saman-akhtar.github.io) | Portfolio site — dark theme, full experience & projects |
 | [ML-for-Data-Science](https://github.com/saman-akhtar/ML-for-Data-Science) | ML algorithms from scratch: KNN, logistic regression, acoustic classification, image processing |
 | [full-throttle](https://github.com/saman-akhtar/full-throttle) | React dashboard — real-time team activity visualizer |
-| [NeetCode150](https://github.com/saman-akhtar/NeetCode150) | LeetCode practice — Python solutions |
 
 ---
 
